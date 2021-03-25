@@ -13,7 +13,7 @@ from fridaybot.utils import friday_on_cmd
 
 PMPERMIT_PIC = os.environ.get("PMPERMIT_PIC", None)
 if not PMPERMIT_PIC:
-    WARN_PIC = "https://telegra.ph/file/53aed76a90e38779161b1.jpg"
+    WARN_PIC = "https://telegra.ph/file/20df9ebfcd72ee92e12c5.jpg"
 else:
     WARN_PIC = PMPERMIT_PIC
 
@@ -33,7 +33,7 @@ USER_BOT_WARN_ZERO = "You Have Attempted To Spam Masters Inbox So Inorder To Avo
 devs_id = [1263617196, 573738900, 1315076555, 1141839926]
 
 USER_BOT_NO_WARN = (
-    "**Hello, This is Friday PM Protection Service ⚠️**\n\n"
+    "**Hello, This is Friday PM Protection Service ⚠️,Hello. My master is busy soul unlike you idle ghost.Once he is online then he will message you.Unless then I don't want you should spam or do nothing non sense thing. My master don't like it.Wait calmly till my beloved master comes online.If you did any any of misconduct I have to block you.Thank you.Peace out.**\n\n"
     f"`My Master {bot.me.first_name} is Busy Right Now !` \n"
     "**I Request You To Choose A Reason You Have Came For** 👀 \n\n"
     f"**{CUSTOM_MIDDLE_PMP}**"
